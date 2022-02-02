@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jamesbarra2001
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C++
+- 📫 How to reach me at minifunk22@gmail.com
